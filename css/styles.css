@@ -45,8 +45,8 @@ hr {
   border: 8px;
   border-style: dotted none none none;
   border-color: #EAF6F6;
-  width: 8%;
-  margin: 5em auto 5em auto;
+  width: 5%;
+  margin: 6em auto 6em auto;
 }
 
 .profile-pic {
@@ -86,20 +86,24 @@ width: 20%;
   bottom: 300px;
 }
 
+.skill-wdev {
+  text-align: right;
+}
+
 .skill-row {
 width: 50%;
-margin: 100px auto 100px auto;
+margin: 150px auto 150px auto;
 text-align: left;
 }
 
 .skill-row-image-1 {
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .skill-row-image-2 {
-  width: 25%;
+  width: 20%;
   float: right;
   margin-left: 30px;
 }
